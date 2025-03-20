@@ -1,2 +1,3 @@
 # algoritmos
- Curso de algoritmos do Curso em Vídeo
+
+Curso de algoritmo do Curso em Vídeo
